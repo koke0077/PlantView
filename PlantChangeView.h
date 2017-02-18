@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <GPUImage/GPUImage.h>
+#import <GPUImage.h>
+
 #import <AVFoundation/AVFoundation.h>
 
 @interface PlantChangeView : UIViewController<UIPopoverControllerDelegate>

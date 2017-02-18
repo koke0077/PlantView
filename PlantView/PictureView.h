@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
-#import <GPUImage/GPUImage.h>
+//#import <GPUImage/GPUImage.h>
+#import <GPUImage.h>
 
 
 @interface PictureView : UIViewController<UIPopoverControllerDelegate, UIScrollViewDelegate>
